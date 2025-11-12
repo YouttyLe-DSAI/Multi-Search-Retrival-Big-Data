@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"index.jsx -> ../Library/SpeechToText\":{\"id\":\"index.jsx -> ../Library/SpeechToText\",\"files\":[\"static/chunks/src_Library_SpeechToText_jsx.js\"]}}"
