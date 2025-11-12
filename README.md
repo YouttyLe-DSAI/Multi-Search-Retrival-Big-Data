@@ -45,6 +45,8 @@
 
 Multi-Search-Retrieval-Big-Data is an advanced developer toolkit designed to facilitate efficient search and retrieval across massive datasets, especially in multimedia contexts. It integrates semantic search, cross-modal similarity, and high-performance indexing to support scalable data management.
 
+Team FPU-HCM TEEJ: 05 member
+
 ### Why Multi-Search-Retrieval-Big-Data?
 
 This project aims to streamline large-scale data search and multimedia content discovery. The core features include:
