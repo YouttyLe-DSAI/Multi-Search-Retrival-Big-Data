@@ -101,3 +101,18 @@ Run the project with:
 Using **pip**:
 ```bash
 python {entrypoint}
+```
+Using **npm**:
+```bash
+npm start
+```
+## Testing 
+Multi-search-retrieval-big-data uses the {test_framework} test framework. Run the test suite with:
+Using **pip**
+```bash
+pytest
+```
+Using **npm**:
+```bash
+npm test
+```
